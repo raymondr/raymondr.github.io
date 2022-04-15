@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tesla Prius Carbon and Doller Comparison"
+title:  "Tesla Prius Carbon and Dollar Comparison"
 excerpt: "Since buying a Tesla Y, I have often wondered how it compares from
 a carbon and dollar cost perspective."
 date:   2022-04-14
@@ -32,7 +32,7 @@ Caveats:
 2.23 lbs of co2[^2] is emitted per kwh of coal generated electricity.   
 One third of Fort Collins' energy is from coal[^3] right now. 
 Tesla Y will cause Rawhide (our local power plant) to emit **10.41 pounds**
- for 56 miles. When more coal is burned it will raise this. When less is burned it will lower it. If our energy was all from natural gas it would be 12.74 pounds for 56 miles.
+ for 56 miles. When more coal is burned it will raise this. When less is burned it will lower it. For comparison, natural gas emits .91 lbs of carbon per kwh.
 
 Caveats:
 - These are variable costs. I don't know the fixed carbon costs of manufacturing a Prius vs. Tesla.
