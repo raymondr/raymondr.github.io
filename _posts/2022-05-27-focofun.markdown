@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Web site to track local music"
+excerpt: "focofun.co Tracks Music Scene in Fort Collins, Colorado"
+date:   2022-05-27
+---
+# focofun.co Tracks Music Scene in Fort Collins, Colorado
+
+There is a lot of music happening in movie theaters, breweries, bowling allies as well as traditional venues.
+I have always enjoyed local music festivals like NewWestFest and Focomx that provided a structure to catch
+some national and local bands. But for the rest of the year, I was at a loss to know where to see music. Mostly
+I would hear about it from friends who actively kept checking Facebook or individual web sites to keep up to
+date.
+
+The only place I knew that kept a calender of happenings was the Scene web site. But from my experience,
+it was hard to find things among the noise. There were events from all over the state and it included many
+non-music events without a way to filter out what I wanted. Furthermore the listings seem to be hit or miss
+depending if someone felt like creating them for some combination of performer or venue.
+
+I ended up creating [focofun.co](https://focofun.co) for solve this problem for me. I hope it is useful to others.
+
+## How it works (for the technical or curious)
+I ended up writing a bunch of web scraping programs in Python that go to various venue web sites and parse the events
+and pull them into a central listing that I maintain. The venue web sites vary from manually edited Wordpress to 
+structured JSON listings. Mostly these scrapers can run automatically with no intervention.
+
+The focofun.co website was written using React to display the events in a calender using Material Design bootstrap
+components. The cards used are progressive so they can adapt to various browsers running with various screen
+dimensions.
+
+I have tried to keep the design simple and clean and had to hold myself back from adding more functionality that would 
+clutter up the interface.
+
+## Support
+For questions or comments please send mail to alpineapp@gmail.com.
